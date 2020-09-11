@@ -1,0 +1,9 @@
+.sidebarRow {
+    display: flex;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+.sidebarRow > p {
+    margin-left: 10px;
+}

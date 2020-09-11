@@ -1,0 +1,11 @@
+.eachCategory {
+    margin:10px auto;
+    padding:10px;
+    
+}
+.product__cards {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    
+}

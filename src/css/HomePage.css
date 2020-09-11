@@ -1,0 +1,9 @@
+.home__main {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-gap: 15px;
+    
+}
+.home__center {
+    background-color:#F2F2F2;
+}
