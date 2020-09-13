@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import StateProvider from './context/GlobalState'
+import { StateProvider } from './context/GlobalState'
 import reducer, { initialState } from './context/reducer'
 
 ReactDOM.render(
